@@ -46,8 +46,8 @@ Planned result visualizations include:
 
     COMSOL-Microchannel-Heat-Sink/
     ├── model/
-    │   └── 论文复现1.mph
-    └── README.md
+│   └── microchannel_heat_sink.mph
+└── README.md
 
 ## Author
 
